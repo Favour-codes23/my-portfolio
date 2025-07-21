@@ -32,7 +32,7 @@ const Portfolio = () => {
       tools: ["Figma", "UI Design", "User Research", "Prototyping"],
       type: "design",
       status: "Case Study Ready",
-      figmaLink: "https://www.figma.com/design/omHLG7bv2kcWVqY0B3r1Wy/Untitled?node-id=0-1&p=f&t=VyoFBXzbVTcSvTSW-0"
+      figmaLink: "https://www.figma.com/design/5zQ7ESSYsQJo2tliV5bu3q/Untitled?node-id=0-1&p=f&t=gSF6Aetf0iRMB9R0-0"
     },
     {
       title: "AI-Powered Medical Dashboard",
@@ -42,7 +42,7 @@ const Portfolio = () => {
       tools: ["Figma", "Medical UI Design", "Data Visualization", "Healthcare UX", "Multi-Screen Design"],
       type: "design",
       status: "Design Complete",
-      figmaLink: "https://www.figma.com/design/5zQ7ESSYsQJo2tliV5bu3q/Untitled?node-id=0-1&p=f&t=gSF6Aetf0iRMB9R0-0"
+      figmaLink: "https://www.figma.com/design/omHLG7bv2kcWVqY0B3r1Wy/Untitled?node-id=0-1&p=f&t=VyoFBXzbVTcSvTSW-0"
     },
     {
       title: "Netflix Streaming Platform Redesign",

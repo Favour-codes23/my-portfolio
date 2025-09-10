@@ -45,10 +45,10 @@ const BookishCaseStudy = ({ onBack }) => {
   ];
 
   const technicalAchievements = [
-    "Zero runtime errors in production after 3 months",
-    "Sub-2 second load times on 3G connections", 
-    "100% responsive across all tested devices",
-    "Offline functionality with service worker implementation"
+    "Successfully deployed and running error-free since launch",
+    "Achieved sub-2 second load times on 3G connections", 
+    "100% responsive design across all tested devices",
+    "Clean, maintainable code structure with proper error handling"
   ];
 
   const learnings = [

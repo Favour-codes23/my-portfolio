@@ -24,17 +24,22 @@ const About = () => {
                 I discovered my passion for UI/UX design through a simple frustration: every app I used daily 
                 had something that bothered me. Small details like confusing navigation, overwhelming interfaces, 
                 or features that seemed designed for the designer rather than the user. I realized I wasn't 
-                just being picky - I was thinking like a designer.
+                just being picky, I was thinking like a designer.
               </p>
               <p className="text-gray-700 leading-relaxed mb-4">
                 Over the past year, I've immersed myself in user-centered design principles, learning that 
-                good design isn't about making things look pretty - it's about solving real problems. 
+                good design isn't about making things look pretty, it's about solving real problems. 
                 Six months ago, I evolved into frontend development to bridge the gap between design thinking 
                 and building functional solutions.
               </p>
+              <p className="text-gray-700 leading-relaxed mb-4">
+                I've grown in frontend development, mastering HTML, CSS, JavaScript, and frameworks like React,
+                turning ideas into interactive, responsive experiences. It's where i bridge creativity with logic,
+                making sure designs don't just look good but actually work well across devices and real user contexts.
+              </p>
               <p className="text-gray-700 leading-relaxed">
                 Based in Lagos, Nigeria, I understand that good design must work across different devices, 
-                connection speeds, and user contexts - not just in ideal conditions. Every project starts 
+                connection speeds, and user contexts, not just in ideal conditions. Every project starts 
                 with the question: "What problem am I really solving?"
               </p>
             </div>
@@ -71,6 +76,13 @@ const About = () => {
                   <p className="text-gray-700">
                     <strong>Build-Measure-Learn:</strong> I learn best by building things that solve real problems. 
                     Each project represents a learning journey where I tackle specific challenges and grow my skills.
+                  </p>
+                </div>
+                 <div className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-orange-500 rounded-full mt-3"></div>
+                  <p className="text-gray-700">
+                    <strong>Continuous Learning:</strong> I stay curious and keep improving my skills by exploring 
+                    new tools, frameworks, and design trends, making sure my work stays relevant and impactful.
                   </p>
                 </div>
                 <div className="flex items-start space-x-3">

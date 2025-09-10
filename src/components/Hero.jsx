@@ -23,7 +23,7 @@ const Hero = () => {
           <div className="relative group">
             <div className="w-32 h-32 rounded-full overflow-hidden shadow-2xl ring-4 ring-white transform transition-all duration-500 hover:scale-110 hover:ring-8 hover:ring-blue-200">
               <img
-                src="./src/headshot.jpg"
+                src="./Images/headshot.jpg"
                 alt="Favour Ifunanya Nwokocha"
                 className="w-full h-full object-cover"
               />

@@ -35,7 +35,7 @@ const Portfolio = () => {
       title: "Book-Finder - Reading Tracker",
       category: "Full-Stack Development",
       description: "A personal reading journey tracker that solves the problem of fragmented book tracking. Built with offline-first approach, features intelligent progress monitoring, reading analytics, and complete data ownership through export/import functionality. Demonstrates full-stack thinking with React state management and Google Books API integration.",
-      image: "./src/bF gif.gif",
+      image: "./Images/bF gif.gif",
       tools: ["React", "JavaScript", "CSS3", "Google Books API", "Local Storage", "Responsive Design"],
       type: "development",
       status: "Live",

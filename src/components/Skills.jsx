@@ -12,10 +12,10 @@ import {
 
 const Skills = () => {
   const designSkills = [
-    { name: 'UI/UX Design', icon: Palette, level: 90 },
-    { name: 'Figma', icon: Figma, level: 85 },
+    { name: 'Visual Design', icon: Palette, level: 90 },
+    { name: 'Wireframing & Prototyping', icon: Figma, level: 85 },
     { name: 'User Research', icon: Users, level: 75 },
-    { name: 'Mobile Design', icon: Smartphone, level: 80 },
+    { name: 'Responsive Design', icon: Smartphone, level: 80 },
   ];
 
   const devSkills = [
